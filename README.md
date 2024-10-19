@@ -26,7 +26,7 @@ In this assignment, we perform **Exploratory Data Analysis (EDA)** on the [Telco
 - **Interactive Visuals**: D3.js based graphs for exploratory analysis.
 
 ### Link to the Colab Notebook:
-[Assignment 1 - Complete Dataset EDA](https://github.com/yourusername/repositoryname/blob/main/Assignment1_EDA.ipynb)
+[Assignment 1 - Complete Dataset EDA](https://colab.research.google.com/drive/1zU2RRg3Rt0e8a0UkIZI6zwP2v9w-uYLC?usp=sharing)
 
 ---
 
@@ -40,7 +40,7 @@ In this assignment, we use **Sweetviz** to perform **Automated Exploratory Data 
 - **Comparison Reports**: Highlights differences between churned and non-churned customers.
 
 ### Link to the Colab Notebook:
-[Assignment 2 - Auto EDA with Sweetviz](https://github.com/yourusername/repositoryname/blob/main/Assignment2_Sweetviz.ipynb)
+[Assignment 2 - Auto EDA with Sweetviz](https://colab.research.google.com/drive/145aG9moJMqjMpXCdx--sL-MfdeChFTA-?usp=sharing)
 
 ---
 
@@ -57,7 +57,7 @@ This assignment demonstrates several core features of **Apache Beam** and showca
 6. **BeamML Integration**: Using machine learning models for real-time inference with BeamML.
 
 ### Link to the Colab Notebook:
-[Assignment 3 - Apache Beam Features Demonstration](https://github.com/yourusername/repositoryname/blob/main/Assignment3_ApacheBeam.ipynb)
+[Assignment 3 - Apache Beam Features Demonstration](https://colab.research.google.com/drive/1YWXeFSW1RAkhOMgrEYGJk8CM9L9UC9TH?usp=sharing)
 
 ---
 
@@ -86,17 +86,17 @@ To run the code in this repository, you need the following libraries:
 Follow the steps below to run the assignments:
 
 ### Assignment 1: Complete Dataset EDA
-1. Open the [Assignment 1 Colab Notebook](https://github.com/yourusername/repositoryname/blob/main/Assignment1_EDA.ipynb).
+1. Open the [Assignment 1 Colab Notebook](https://github.com/Mohib1402/ApacheBeam/blob/main/ApacheBeamAss1.ipynb).
 2. Load the Telco Customer Churn dataset and run all cells.
 3. Review the advanced D3.js visualizations for insights.
 
 ### Assignment 2: Auto EDA with Sweetviz
-1. Open the [Assignment 2 Colab Notebook](https://github.com/yourusername/repositoryname/blob/main/Assignment2_Sweetviz.ipynb).
+1. Open the [Assignment 2 Colab Notebook](https://github.com/Mohib1402/ApacheBeam/blob/main/ApacheBeamAss2.ipynb).
 2. Load the Telco Customer Churn dataset and run all cells.
 3. Review the Sweetviz-generated report and comparison between churned and non-churned customers.
 
 ### Assignment 3: Apache Beam Features Demonstration
-1. Open the [Assignment 3 Colab Notebook](https://github.com/yourusername/repositoryname/blob/main/Assignment3_ApacheBeam.ipynb).
+1. Open the [Assignment 3 Colab Notebook](https://github.com/Mohib1402/ApacheBeam/blob/main/ApacheBeamAss3.ipynb).
 2. Run each step of the pipeline to demonstrate:
    - Composite Transforms
    - Pipeline I/O (reading from and writing to CSV/text files)
